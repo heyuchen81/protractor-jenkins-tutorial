@@ -1,0 +1,22 @@
+{
+  "name": "protractor-jenkins-tutorial",
+  "version": "1.0.0",
+  "description": "This is a test repository to store some tech experiments using protractor and Jensen",
+  "main": "conf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heyuchen81/protractor-jenkins-tutorial.git"
+  },
+  "author": "XinHe <xin.he@ingenta.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/heyuchen81/protractor-jenkins-tutorial/issues"
+  },
+  "homepage": "https://github.com/heyuchen81/protractor-jenkins-tutorial#readme",
+  "devDependencies": {
+    "protractor": "^3.3.0"
+  }
+}
