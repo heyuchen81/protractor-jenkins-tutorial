@@ -10,7 +10,7 @@ exports.config = {
 	  'browser_version' : '8.0',
 	  'os' : 'Windows',
 	  'os_version' : '7',
-	  'resolution' : '1024x768'
+	  'resolution' : '1024x768',
 	  'browserstack.user' : process.env.USERNAME,
 	  'browserstack.key' : process.env.AUTOMATE_KEY,
 	  'browserstack.debug' : 'true'
